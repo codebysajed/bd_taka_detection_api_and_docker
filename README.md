@@ -75,7 +75,7 @@ docker-compose up --build
 API will be available at:
 
 ```
-http://localhost:8000
+http://localhost:5000
 ```
 
 ---
